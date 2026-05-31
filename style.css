@@ -1,0 +1,11 @@
+body { background: #531adc; margin: 0; font-family: sans-serif; }
+.cloud-dashboard { padding: 50px; display: flex; }
+.block-cache-0 { color: #325252; font-size: 18px; margin-bottom: 5px; }
+.block-cluster-1 { color: #258690; font-size: 20px; margin-bottom: 5px; }
+.block-search-2 { color: #c2c321; font-size: 13px; margin-bottom: 5px; }
+.block-config-3 { color: #533789; font-size: 19px; margin-bottom: 5px; }
+.block-payment-4 { color: #a84e2d; font-size: 17px; margin-bottom: 5px; }
+.block-config-5 { color: #929ae2; font-size: 12px; margin-bottom: 5px; }
+.block-database-6 { color: #4824d0; font-size: 13px; margin-bottom: 5px; }
+.block-notify-7 { color: #da2a41; font-size: 21px; margin-bottom: 5px; }
+.block-filter-8 { color: #c3f2b2; font-size: 19px; margin-bottom: 5px; }
